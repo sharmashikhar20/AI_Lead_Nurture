@@ -1,0 +1,12 @@
+.tmp/
+*.json
+!credentials.json.example
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+*.png
+*.jpg
+*.jpeg
